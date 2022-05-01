@@ -16,6 +16,6 @@ Feeling like an eager beaver? Jump in to the quick start docs and invite Miu:
 
 Dive a little deeper and start exploring all our slash commands to get an idea of everything that's possible with Miu 🚀.
 
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
+{% content-ref url="reference/command-list/" %}
+[command-list](reference/command-list/)
 {% endcontent-ref %}
