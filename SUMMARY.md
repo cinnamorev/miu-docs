@@ -6,4 +6,5 @@
 ## Reference
 
 * [🗒 Command List](reference/api-reference/README.md)
-  * [🎱 /8ball](reference/command-list/8ball.md)
+  * [🎱 /8ball](reference/api-reference/pets.md)
+  * [🎨 /addemoji](reference/command-list/addemoji.md)
