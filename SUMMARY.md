@@ -5,6 +5,5 @@
 
 ## Reference
 
-* [🗒 Command List](reference/command-list/README.md)
-  * [Pets](reference/command-list/pets.md)
-  * [Users](reference/command-list/users.md)
+* [🗒 Command List](reference/api-reference/README.md)
+  * [🎱 /8ball](reference/command-list/8ball.md)
